@@ -100,14 +100,7 @@ const Farms: React.FC<FarmsProps> = (farmsProps) => {
         <Heading as="h2" color="secondary" mb="50px" style={{ textAlign: 'center' }}>
           {TranslateString(10000, 'Deposit Fee will be used to buyback In-Dex Sale')}
         </Heading>
-        {tokenMode && (
-          <img
-            src="/images/taco/taco_truck_2.png"
-            alt="In-Dex Sale Pools"
-            width={200}
-            style={{ position: 'absolute', top: 50, right: 20 }}
-          />
-        )}
+        {tokenMode &&}
       </div>
       <FarmTabButtons />
       <div>
