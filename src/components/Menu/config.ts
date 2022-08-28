@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'http://exchange.cryptofan.finance/#/swap',
+        href: 'http://swap.indexsale.finance/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.cryptofan.finance/#/pool',
+        href: 'https://swap.indexsale.finance/#/pool',
       },
     ],
   },
@@ -55,11 +55,11 @@ const config: MenuEntry[] = [
       },
       {
         label: 'CoinGecko',
-        href: 'https://www.coingecko.com/en/coins/CryptoFan',
+        href: 'https://www.coingecko.com/en/coins/indexsale',
       },
       {
         label: 'CoinMarketCap',
-        href: 'https://coinmarketcap.com/currencies/CryptoFan',
+        href: 'https://coinmarketcap.com/currencies/indexsale',
       },
       {
         label: 'AstroTools',
@@ -73,15 +73,15 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Website',
-        href: 'https://cryptofan.finance',
+        href: 'https://indexsale.finance',
       },
       {
         label: 'Github',
-        href: 'https://github.com/CryptoFan/',
+        href: 'https://github.com/indexsale/',
       },
       {
         label: 'Docs',
-        href: 'https://cryptofan.finance/wp-content/uploads/2022/07/WhitePaper-1.0-CryptoFan-Token-1.pdf',
+        href: 'https://idsdefi.gitbook.io/',
       },
       {
         label: 'Blog',
@@ -92,7 +92,7 @@ const config: MenuEntry[] = [
   {
     label: 'Website',
     icon: 'AuditIcon',
-    href: 'https://cryptofan.finance/',
+    href: 'https://indexsale.finance/',
   },
 ]
 
