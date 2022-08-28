@@ -62,7 +62,7 @@ const Home: React.FC = () => {
       <Hero>
         <Heading as="h1" size="xl" mb="24px" color="secondary">
           <span style={{ fontFamily: 'Ostrich Sans', textTransform: 'uppercase', fontSize: '40pt' }}>
-            {TranslateString(576, 'CryptoFan')}
+            {TranslateString(576, 'In-Dex Sale')}
           </span>
         </Heading>
         <Text>
